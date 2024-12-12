@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.css": "tailwindcss"
+    },
+    "editor.quickSuggestions": {
+        "strings": true,
+    },
+    "cSpell.words": [
+        "appwrite",
+        "nuxtjs",
+        "Slideover"
+    ]
+}
